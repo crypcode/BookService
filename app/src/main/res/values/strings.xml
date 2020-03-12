@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Book shop</string>
+    <string name="app_title1">Register</string>
+
+    <string name="register_email">E.mail</string>
+    <string name="register_name">Name</string>
+    <string name="register_password">Password</string>
+    <string name="register_register_btn">Register</string>
+
+    <string name="register_invalid_email_message">Wrong email</string>
+
+    <string name="login_username">Username:</string>
+    <string name="login_password">Password:</string>
+    <string name="login_remember_me">Remember me</string>
+    <string name="login_login_btn">Login</string>
+    <string name="login_register_btn">Register</string>
+
+    <string name="login_invalid_credentials_message">Wrong username or password</string>
+
+
+    <string name="search_new_entry_title">Request Book</string>
+    <string name="search_new_entry_button">New Request</string>
+
+    <string name="new_entry_pack">Pack Type: </string>
+    <string name="new_entry_both_pack">Audio Book + Book</string>
+    <string name="new_entry_maintenance_only_book">Only Book</string>
+    <string name="new_entry_audio_book">Audio Book</string>
+    <string name="new_entry_genre">Genre: </string>
+    <string name="new_entry_genre_detective">Detective</string>
+    <string name="new_entry_genre_fantasy">Fantasy</string>
+    <string name="new_entry_dinner_price">Price: </string>
+
+    <string name="new_entry_book_name">Book name: </string>
+    <string name="new_entry_author">Author: </string>
+
+    <string name="new_entry_maintenance_payment_type">Payment: </string>
+
+    <string-array name="new_entry_book_payment_type">
+        <item>Cash</item>
+        <item>Credit Card</item>
+        <item>PayPal</item>
+        <item>MoneyBookers</item>
+    </string-array>
+
+    <string name="new_entry_button">Request</string>
+
+    <string name="new_entry_database_info">Prašome palaukti, įrašas siunčiamas į duomenų bazę</string>
+    <string name="new_entry_book_description">Description:</string>
+    <string name="new_entry_special_pack">Special pack with gifts</string>
+    <string name="new_entry_genre_adventure">Adventure</string>
+    <string name="register_phone">Phone</string>
+
+</resources>
